@@ -1,12 +1,12 @@
 /*Imports*/
 
-@import url("css/components/_header.css");
-@import url("css/components/_navbar.css");
-@import url("css/components/_slider.css");
-@import url("css/components/_cards.css");
-@import url("css/components/_footer.css");
-@import url("css/components/_article.css");
-@import url("css/components/_about-me.css");
+@import url("/fannylikescoffee/css/components/_header.css");
+@import url("/fannylikescoffee/css/components/_navbar.css");
+@import url("/fannylikescoffee/css/components/_slider.css");
+@import url("/fannylikescoffee/css/components/_cards.css");
+@import url("/fannylikescoffee/css/components/_footer.css");
+@import url("/fannylikescoffee/css/components/_article.css");
+@import url("/fannylikescoffee/css/components/_about-me.css");
 
 /*Fonts
 font-family: 'Cinzel', serif;
