@@ -1,12 +1,12 @@
 /*Imports*/
 
-@import url("components/_header.css");
-@import url("components/_navbar.css");
-@import url("components/_slider.css");
-@import url("components/_cards.css");
-@import url("components/_footer.css");
-@import url("components/_article.css");
-@import url("components/_about-me.css");
+@import url("css/components/_header.css");
+@import url("css/components/_navbar.css");
+@import url("css/components/_slider.css");
+@import url("css/components/_cards.css");
+@import url("css/components/_footer.css");
+@import url("css/components/_article.css");
+@import url("css/components/_about-me.css");
 
 /*Fonts
 font-family: 'Cinzel', serif;
