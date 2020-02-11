@@ -38,3 +38,18 @@
   text-decoration: none;
   font-style: italic;
 }
+
+.left {
+  text-align: left;
+}
+
+ul {
+  font-family: 'Lora', sans-serif;
+  font-size: 16px;
+  color: #45454d;
+  line-height: 26px;
+}
+
+.recipe {
+  padding: 0 100px;
+}
